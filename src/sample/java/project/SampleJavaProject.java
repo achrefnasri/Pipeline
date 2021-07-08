@@ -60,7 +60,7 @@ public class SampleJavaProject implements Runnable {
      * Print the "Hello, world!" string.
      */
     public final void sayHello() {
-        System.out.printf("Hello, %s!%n", name);
+        System.out.printf("pipeline is on, %s!%n", name);
     }
 
     @Override
